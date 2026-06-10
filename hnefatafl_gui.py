@@ -4,7 +4,7 @@ import copy
 import math
 import threading
 import time
-import Hnefatafl
+import Hnefatafl_logic as Hnefatafl
 
 # ═══════════════════════════════════════════════════════════════════════════════
 #  COLOUR HELPERS
